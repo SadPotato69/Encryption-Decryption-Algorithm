@@ -1,5 +1,5 @@
 //ENCRYPTION DECRYPTION ALGORITHM
-// MADE BY WAHAJ JAVED(20K-0208) AND IMAMA AWAIS(20K-0125)
+// MADE BY WAHAJ JAVED(20K-0208)
 
 //Inlude libraries
 #include<stdio.h>
@@ -120,7 +120,7 @@ int main() {
 				system("cls");
 				printf("Thank You! ");
 				printf("\n \n \n \n");
-				printf("MADE BY: \n WAHAJ JAVED(20K-0208) \n IMAMA AWAIS(20K-0125)\n");
+				printf("MADE BY: \n WAHAJ JAVED(20K-0208)\n");
 				printf("Press any key to exit.");
 				getch();
 				exit(0);
